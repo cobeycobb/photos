@@ -10,7 +10,11 @@ export default function Gallery() {
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
 
-  const photos = photosData as Photo[];
+  const photos = (photosData as Photo[]).map(photo => ({
+    ...photo,
+    thumbnail: import.meta.env.BASE_URL + photo.thumbnail.slice(1),
+    fullSize: import.meta.env.BASE_URL + photo.fullSize.slice(1),
+  }));
 
   // Get unique categories
   const categories = useMemo(() => {

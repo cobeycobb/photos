@@ -6,7 +6,11 @@ import photosData from '../data/photos.json';
 
 export default function MapView() {
   const [selectedPhoto, setSelectedPhoto] = useState<Photo | null>(null);
-  const photos = photosData as Photo[];
+  const photos = (photosData as Photo[]).map(photo => ({
+    ...photo,
+    thumbnail: import.meta.env.BASE_URL + photo.thumbnail.slice(1),
+    fullSize: import.meta.env.BASE_URL + photo.fullSize.slice(1),
+  }));
 
   return (
     <div>
