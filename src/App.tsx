@@ -5,7 +5,7 @@ import MapView from './pages/MapView';
 
 function App() {
   return (
-    <Router basename="/photo_website">
+    <Router basename="/photos">
       <div className="min-h-screen bg-gray-950">
         <Navigation />
         <main className="container mx-auto px-4 py-8">
