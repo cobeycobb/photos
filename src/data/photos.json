@@ -1,0 +1,393 @@
+[
+  {
+    "id": "1",
+    "title": "Grand Canyon Milky Way",
+    "description": "The Milky Way stretching across the night sky above the Grand Canyon",
+    "location": {
+      "name": "Grand Canyon National Park, AZ",
+      "coordinates": {
+        "lat": 36.0544,
+        "lng": -112.1401
+      }
+    },
+    "category": "astrophotography",
+    "date": "2024-08-15",
+    "thumbnail": "/images/thumbnails/grand-canyon-milky-way-stacked.jpg",
+    "fullSize": "/images/full/grand-canyon-milky-way-stacked.jpg",
+    "tags": ["milky way", "grand canyon", "night sky"]
+  },
+  {
+    "id": "2",
+    "title": "Grand Canyon Sunset Panorama",
+    "description": "Epic panoramic view of the Grand Canyon at golden hour",
+    "location": {
+      "name": "Grand Canyon National Park, AZ",
+      "coordinates": {
+        "lat": 36.0544,
+        "lng": -112.1401
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-06-20",
+    "thumbnail": "/images/thumbnails/grand-canyon-sunset-pano-full-width.jpg",
+    "fullSize": "/images/full/grand-canyon-sunset-pano-full-width.jpg",
+    "tags": ["grand canyon", "sunset", "panorama"]
+  },
+  {
+    "id": "3",
+    "title": "Bryce Canyon Rainbow",
+    "description": "A beautiful rainbow over Bryce Canyon's iconic hoodoos",
+    "location": {
+      "name": "Bryce Canyon National Park, UT",
+      "coordinates": {
+        "lat": 37.5930,
+        "lng": -112.1871
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-07-12",
+    "thumbnail": "/images/thumbnails/bryce-canyon-rainbow-2.jpg",
+    "fullSize": "/images/full/bryce-canyon-rainbow-2.jpg",
+    "tags": ["bryce canyon", "rainbow", "hoodoos"]
+  },
+  {
+    "id": "4",
+    "title": "Capitol Reef - Cathedral Valley",
+    "description": "Towering monoliths in the remote Cathedral Valley",
+    "location": {
+      "name": "Capitol Reef National Park, UT",
+      "coordinates": {
+        "lat": 38.3670,
+        "lng": -111.2615
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-05-22",
+    "thumbnail": "/images/thumbnails/capitol-reef---cathedral-valley.jpg",
+    "fullSize": "/images/full/capitol-reef---cathedral-valley.jpg",
+    "tags": ["capitol reef", "cathedral valley", "monoliths"]
+  },
+  {
+    "id": "5",
+    "title": "Buckskin Gulch",
+    "description": "One of the longest slot canyons in the world",
+    "location": {
+      "name": "Buckskin Gulch, UT",
+      "coordinates": {
+        "lat": 37.0281,
+        "lng": -112.0066
+      }
+    },
+    "category": "landscapes",
+    "date": "2024-04-18",
+    "thumbnail": "/images/thumbnails/buckskin-gulch.jpg",
+    "fullSize": "/images/full/buckskin-gulch.jpg",
+    "tags": ["buckskin gulch", "slot canyon", "utah"]
+  },
+  {
+    "id": "6",
+    "title": "Buckskin Gulch Lizard",
+    "description": "A lizard basking on the canyon walls",
+    "location": {
+      "name": "Buckskin Gulch, UT",
+      "coordinates": {
+        "lat": 37.0281,
+        "lng": -112.0066
+      }
+    },
+    "category": "wildlife",
+    "date": "2024-04-18",
+    "thumbnail": "/images/thumbnails/buckskin-gulch-lizard.jpg",
+    "fullSize": "/images/full/buckskin-gulch-lizard.jpg",
+    "tags": ["lizard", "wildlife", "buckskin gulch"]
+  },
+  {
+    "id": "7",
+    "title": "Grand Teton Barn",
+    "description": "Historic Mormon Row barn with the Tetons in the background",
+    "location": {
+      "name": "Grand Teton National Park, WY",
+      "coordinates": {
+        "lat": 43.7904,
+        "lng": -110.6818
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-07-25",
+    "thumbnail": "/images/thumbnails/grand-teton-barn.jpg",
+    "fullSize": "/images/full/grand-teton-barn.jpg",
+    "tags": ["grand teton", "mormon row", "barn"]
+  },
+  {
+    "id": "8",
+    "title": "Grand Teton Panorama",
+    "description": "Sweeping panoramic view of the Teton Range",
+    "location": {
+      "name": "Grand Teton National Park, WY",
+      "coordinates": {
+        "lat": 43.7904,
+        "lng": -110.6818
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-07-26",
+    "thumbnail": "/images/thumbnails/grand-teton-panorama.jpg",
+    "fullSize": "/images/full/grand-teton-panorama.jpg",
+    "tags": ["grand teton", "panorama", "mountains"]
+  },
+  {
+    "id": "9",
+    "title": "Jenny Lake",
+    "description": "Crystal clear waters of Jenny Lake",
+    "location": {
+      "name": "Grand Teton National Park, WY",
+      "coordinates": {
+        "lat": 43.7529,
+        "lng": -110.7343
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-07-26",
+    "thumbnail": "/images/thumbnails/jenny-lake-iphone.jpg",
+    "fullSize": "/images/full/jenny-lake-iphone.jpg",
+    "tags": ["jenny lake", "grand teton", "lake"]
+  },
+  {
+    "id": "10",
+    "title": "Jenny Lake Chipmunk",
+    "description": "Curious chipmunk at Jenny Lake",
+    "location": {
+      "name": "Grand Teton National Park, WY",
+      "coordinates": {
+        "lat": 43.7529,
+        "lng": -110.7343
+      }
+    },
+    "category": "wildlife",
+    "date": "2024-07-26",
+    "thumbnail": "/images/thumbnails/jenny-lake-chipmunk.jpg",
+    "fullSize": "/images/full/jenny-lake-chipmunk.jpg",
+    "tags": ["chipmunk", "wildlife", "jenny lake"]
+  },
+  {
+    "id": "11",
+    "title": "Yellowstone Bison Herd",
+    "description": "Majestic bison and his herd in Yellowstone",
+    "location": {
+      "name": "Yellowstone National Park, WY",
+      "coordinates": {
+        "lat": 44.9197,
+        "lng": -110.2147
+      }
+    },
+    "category": "wildlife",
+    "date": "2024-07-28",
+    "thumbnail": "/images/thumbnails/yellowstone---bison-and-his-herd-**selling**.jpg",
+    "fullSize": "/images/full/yellowstone---bison-and-his-herd-**selling**.jpg",
+    "tags": ["bison", "wildlife", "yellowstone"]
+  },
+  {
+    "id": "12",
+    "title": "Grand Prismatic Spring",
+    "description": "The vibrant colors of Grand Prismatic Spring",
+    "location": {
+      "name": "Yellowstone National Park, WY",
+      "coordinates": {
+        "lat": 44.5251,
+        "lng": -110.8379
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-07-27",
+    "thumbnail": "/images/thumbnails/cobey-by-grand-prismatic.jpg",
+    "fullSize": "/images/full/cobey-by-grand-prismatic.jpg",
+    "tags": ["grand prismatic", "yellowstone", "hot spring"]
+  },
+  {
+    "id": "13",
+    "title": "Grand Prismatic at Night",
+    "description": "The Milky Way over Grand Prismatic Spring",
+    "location": {
+      "name": "Yellowstone National Park, WY",
+      "coordinates": {
+        "lat": 44.5251,
+        "lng": -110.8379
+      }
+    },
+    "category": "astrophotography",
+    "date": "2024-07-27",
+    "thumbnail": "/images/thumbnails/yellowstone---grand-prismatic-night.jpg",
+    "fullSize": "/images/full/yellowstone---grand-prismatic-night.jpg",
+    "tags": ["grand prismatic", "milky way", "yellowstone"]
+  },
+  {
+    "id": "14",
+    "title": "Yellowstone Geyser",
+    "description": "Wide angle view of a geyser erupting",
+    "location": {
+      "name": "Yellowstone National Park, WY",
+      "coordinates": {
+        "lat": 44.4605,
+        "lng": -110.8281
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-07-28",
+    "thumbnail": "/images/thumbnails/yellowstone---wide-geyser3.jpg",
+    "fullSize": "/images/full/yellowstone---wide-geyser3.jpg",
+    "tags": ["geyser", "yellowstone", "geothermal"]
+  },
+  {
+    "id": "15",
+    "title": "Sunset Geyser",
+    "description": "A geyser erupting at sunset",
+    "location": {
+      "name": "Yellowstone National Park, WY",
+      "coordinates": {
+        "lat": 44.4605,
+        "lng": -110.8281
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-07-28",
+    "thumbnail": "/images/thumbnails/sunset-geyser.jpg",
+    "fullSize": "/images/full/sunset-geyser.jpg",
+    "tags": ["geyser", "sunset", "yellowstone"]
+  },
+  {
+    "id": "16",
+    "title": "Barstow Clouds",
+    "description": "Dramatic clouds over the desert near Barstow",
+    "location": {
+      "name": "Barstow, CA",
+      "coordinates": {
+        "lat": 34.8958,
+        "lng": -117.0228
+      }
+    },
+    "category": "landscapes",
+    "date": "2024-03-15",
+    "thumbnail": "/images/thumbnails/barstow-clouds.jpg",
+    "fullSize": "/images/full/barstow-clouds.jpg",
+    "tags": ["clouds", "desert", "barstow"]
+  },
+  {
+    "id": "17",
+    "title": "Salt Lake City Lights",
+    "description": "City lights from above Salt Lake City",
+    "location": {
+      "name": "Salt Lake City, UT",
+      "coordinates": {
+        "lat": 40.7608,
+        "lng": -111.8910
+      }
+    },
+    "category": "landscapes",
+    "date": "2024-05-10",
+    "thumbnail": "/images/thumbnails/salt-lake-lights.jpg",
+    "fullSize": "/images/full/salt-lake-lights.jpg",
+    "tags": ["city lights", "salt lake city", "urban"]
+  },
+  {
+    "id": "18",
+    "title": "Thermopolis Sunflower",
+    "description": "A beautiful sunflower in Thermopolis",
+    "location": {
+      "name": "Thermopolis, WY",
+      "coordinates": {
+        "lat": 43.6460,
+        "lng": -108.2120
+      }
+    },
+    "category": "other",
+    "date": "2024-07-29",
+    "thumbnail": "/images/thumbnails/thermopolis-sunflower.jpg",
+    "fullSize": "/images/full/thermopolis-sunflower.jpg",
+    "tags": ["sunflower", "flowers", "thermopolis"]
+  },
+  {
+    "id": "19",
+    "title": "Cathedral Valley Vista",
+    "description": "Poster-worthy view of Cathedral Valley",
+    "location": {
+      "name": "Capitol Reef National Park, UT",
+      "coordinates": {
+        "lat": 38.3670,
+        "lng": -111.2615
+      }
+    },
+    "category": "national-parks",
+    "date": "2024-05-22",
+    "thumbnail": "/images/thumbnails/capitol-reef---cathedral-valley-poster.jpg",
+    "fullSize": "/images/full/capitol-reef---cathedral-valley-poster.jpg",
+    "tags": ["capitol reef", "cathedral valley", "vista"]
+  },
+  {
+    "id": "20",
+    "title": "Teton Portrait",
+    "description": "Portrait with the Grand Tetons in the background",
+    "location": {
+      "name": "Grand Teton National Park, WY",
+      "coordinates": {
+        "lat": 43.7904,
+        "lng": -110.6818
+      }
+    },
+    "category": "other",
+    "date": "2024-07-26",
+    "thumbnail": "/images/thumbnails/teton---cobey.jpg",
+    "fullSize": "/images/full/teton---cobey.jpg",
+    "tags": ["portrait", "grand teton", "people"]
+  },
+  {
+    "id": "21",
+    "title": "Grand Canyon Portrait",
+    "description": "Standing at the edge of the Grand Canyon",
+    "location": {
+      "name": "Grand Canyon National Park, AZ",
+      "coordinates": {
+        "lat": 36.0544,
+        "lng": -112.1401
+      }
+    },
+    "category": "other",
+    "date": "2024-06-20",
+    "thumbnail": "/images/thumbnails/me-at-grand-canyon.jpg",
+    "fullSize": "/images/full/me-at-grand-canyon.jpg",
+    "tags": ["portrait", "grand canyon", "people"]
+  },
+  {
+    "id": "22",
+    "title": "Hot Springs",
+    "description": "Relaxing by the hot springs",
+    "location": {
+      "name": "Hot Springs, WY",
+      "coordinates": {
+        "lat": 43.6460,
+        "lng": -108.2120
+      }
+    },
+    "category": "other",
+    "date": "2024-07-29",
+    "thumbnail": "/images/thumbnails/me-by-the-springs.jpg",
+    "fullSize": "/images/full/me-by-the-springs.jpg",
+    "tags": ["hot springs", "portrait", "people"]
+  },
+  {
+    "id": "23",
+    "title": "Bison Portrait",
+    "description": "Close-up of a Yellowstone bison",
+    "location": {
+      "name": "Yellowstone National Park, WY",
+      "coordinates": {
+        "lat": 44.9197,
+        "lng": -110.2147
+      }
+    },
+    "category": "wildlife",
+    "date": "2024-07-28",
+    "thumbnail": "/images/thumbnails/yellowstone---bison-and-his-herd_1.jpg",
+    "fullSize": "/images/full/yellowstone---bison-and-his-herd_1.jpg",
+    "tags": ["bison", "wildlife", "yellowstone"]
+  }
+]
