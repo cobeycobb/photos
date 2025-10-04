@@ -9,12 +9,12 @@ export default function PhotoCard({ photo, onClick }: PhotoCardProps) {
   return (
     <div
       onClick={onClick}
-      className="group relative cursor-pointer overflow-hidden rounded-lg bg-gray-800 transition-transform hover:scale-105"
+      className="group relative cursor-pointer overflow-hidden rounded-lg bg-gray-800 transition-transform hover:scale-102"
     >
       <img
         src={photo.thumbnail}
         alt={photo.title}
-        className="w-full h-auto transition-transform duration-300 group-hover:scale-110"
+        className="w-full h-auto transition-transform duration-300 group-hover:scale-105"
         loading="lazy"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/0 to-black/0 opacity-0 transition-opacity group-hover:opacity-100">
