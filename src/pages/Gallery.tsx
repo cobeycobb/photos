@@ -5,10 +5,13 @@ import FilterBar from '../components/FilterBar';
 import Lightbox from '../components/Lightbox';
 import photosData from '../data/photos.json';
 
-export default function Gallery() {
+interface GalleryProps {
+  searchQuery: string;
+}
+
+export default function Gallery({ searchQuery }: GalleryProps) {
   const [selectedPhoto, setSelectedPhoto] = useState<Photo | null>(null);
   const [selectedCategory, setSelectedCategory] = useState('all');
-  const [searchQuery, setSearchQuery] = useState('');
 
   const photos = (photosData as Photo[]).map(photo => ({
     ...photo,
@@ -45,8 +48,6 @@ export default function Gallery() {
         categories={categories}
         selectedCategory={selectedCategory}
         onCategoryChange={setSelectedCategory}
-        searchQuery={searchQuery}
-        onSearchChange={setSearchQuery}
       />
 
       {filteredPhotos.length === 0 ? (
